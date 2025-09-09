@@ -1,0 +1,27 @@
+.navbar{
+    width: 100vw;
+    height: 7vh;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: white;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar ul li {
+    margin-left: 1rem;
+    font-size: 2rem;
+    margin-right: 1rem;
+}
+
+
+.navbar ul a{
+    text-decoration: none;
+}
